@@ -1,0 +1,9 @@
+body {
+	background-color: bisque;
+	border: 2px black dotted;
+	margin-left: 20%;
+	margin-right: 20%;
+
+	font-family: sans-serif;
+	font-size: 20px;
+}
